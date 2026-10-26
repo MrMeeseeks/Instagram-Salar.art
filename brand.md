@@ -70,6 +70,14 @@ Caricatures and face painting share the same rates.
 - Core (use these): #vancouvercaricature #caricatureartist #liveevententertainment #vancouverevents #weddingentertainment
 - Add as relevant: local (#northvancouver #burnaby #yvr), holiday (#holidayparty #corporateevents), Toronto set for Dec 17+ (#torontoevents #torontocaricature)
 
+## Partner accounts (markets)
+| Market | Instagram |
+|---|---|
+| Parvaneh market | @parking.parvaneh.canada |
+| Made in the 604 | @madeinthe604 |
+
+**Collab rule:** only send an Instagram collab invite to a market when the footage was **filmed at that market**. For promo posts using older footage ("I'll be at this market, here's my work"), just **@mention** the market in the caption — no collab.
+
 ## Rules for content
 - Never name or show roster artists' portfolios in posts — Salar's own work only.
 - Only quote prices from this file.

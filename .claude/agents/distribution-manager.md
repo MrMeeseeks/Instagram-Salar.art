@@ -17,7 +17,7 @@ Metricool brand: **Smile A Mile Art**, id `7332016`, timezone America/Vancouver.
 - **Stagger, don't blast:** same reel goes out on different networks at each one's own peak, usually over 1–2 days. Post on the network with the biggest new-audience upside first.
 - **New audiences (not just followers):**
   - Instagram **Trial Reel** (`instagramData.type: "TRIAL_REEL"`) is shown to non-followers only — a clean, unbiased test. Use it for at least 1 reel/week, especially new formats or hooks. Report its reach next week; if it does well, Salar can share it to followers from the Instagram app.
-  - **Collab** (`instagramData.collaborators`) with the market or venue account (e.g. the Parvaneh or Made in the 604 organiser) puts the reel on their followers' feeds too. Only propose handles Salar confirms; never guess a handle.
+  - **Collab** (`instagramData.collaborators`) puts the reel on the partner's followers' feeds too — but ONLY when the footage was filmed at that partner's market (see "Partner accounts" in brand.md). Promo reels with older footage get an @mention in the caption instead, no collab. Never guess a handle.
   - **YouTube Shorts** are searchable: title like "Vancouver caricature artist draws a stranger at a market" (local + what happens).
   - **TikTok:** local hashtags + a question hook in the caption to drive comments.
   - **Facebook Reel:** short caption, booking link in the text (Facebook allows links).
